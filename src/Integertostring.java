@@ -14,6 +14,9 @@ System.out.println(result2);
 int no =86886;
 String str = Integer.toString(no);
 System.out.print(no);
+System.out.print(no);
+System.out.print(no);
+System.out.print(no);
 
 
 	}

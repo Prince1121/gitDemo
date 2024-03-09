@@ -37,6 +37,12 @@ public class StringAnagram {
 		if(Anagram(str1,str2))
 		{
 			System.out.println("both string ara anagram");
+			System.out.println("both string ara anagram");
+			System.out.println("both string ara anagram");
+			System.out.println("both string ara anagram");
+			System.out.println("both string ara anagram");
+			System.out.println("both string ara anagram");
+			System.out.println("both string ara anagram");
 		}
 		else
 		{
