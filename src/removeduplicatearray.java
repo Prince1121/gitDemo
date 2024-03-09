@@ -28,6 +28,10 @@ public class removeduplicatearray {
 	       }
 	       for (int i = 0; i < k; i++) {
 	           System.out.print(arr2[i] + " ");
+	           System.out.print(arr2[i] + " ");
+	           System.out.print(arr2[i] + " ");
+	           System.out.print(arr2[i] + " ");
+	           System.out.print(arr2[i] + " ");
 	       }
 		
 
